@@ -1,2 +1,2 @@
 # dic_project
-development of fully automatic grass cutter with multilevel machanism
+development of fully automatic grass cutter with multilevel machanism.
