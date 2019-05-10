@@ -1,7 +1,7 @@
 # dic_project
 development of fully automatic grass cutter with multilevel machanism.
-##  BACKGROUNG
-Here the grass cutter is actully working though remote control. Its will be soon shifted to automatic working, after testing of all machanical structure working in field.
+##  BACKGROUND
+At present grass cutter is working though remote control. It will be soon shifted to automatic working, after testing of its all machanical structure working in field.
 In remote control the communication is done through 'NRF module' at the both end and 'arduino mega' at robot side and 'arduino nano' at remote end.
 All the diffirent functions carried out by this grass cutter is controll by using relay switchs.
 Two 12V, 9A batteries are use to power up the robot.
