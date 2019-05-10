@@ -15,4 +15,4 @@ And the structure is being passed to the robot end.
 
 ### ROBOT END
 
-Here the value passed from the remote is read, and according to it the different functions are being called to perform various operations, such moving forward, backward, left, right, blade heigh adjustment, etc.
+Here the value passed from the remote is read, and according to it the different functions are being called to perform various operations, such as moving forward, backward, left, right, blade heigh adjustment, etc.
